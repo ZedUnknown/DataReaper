@@ -4,7 +4,7 @@
 Please provide the directories in a list format in a .txt file. Each directory should be listed on a separate line without any additional formatting or prefixes.
 
 _For example:_
-E:\Images\Personal\Me.png
+E:\Images\Personal\Me.png</br>
 D:\Documents\staff.docx
 .
 .
